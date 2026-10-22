@@ -1,0 +1,12 @@
+{
+  "test_accuracy": 0.7052,
+  "balanced_accuracy": 0.5667,
+  "macro_f1": 0.5165,
+  "macro_auc": 0.9249,
+  "baseline_cnn_accuracy": 0.6988,
+  "baseline_cnn_balanced_accuracy": 0.4989,
+  "baseline_cnn_auc": 0.8553,
+  "majority_baseline": 0.6688,
+  "leaky_accuracy": 0.9528,
+  "leaky_overlap": 0.8588
+}
