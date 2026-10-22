@@ -4,6 +4,10 @@ A convolutional neural network that classifies dermatoscopic images into **7 typ
 
 The project also shows how a common preprocessing mistake, **oversampling before the train/test split**, makes a model look far better than it really is, and how to evaluate it properly.
 
+**Live demo: [skin-lesion-classification-arslan.streamlit.app](https://skin-lesion-classification-arslan.streamlit.app/)**
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://skin-lesion-classification-arslan.streamlit.app/)
+
 ![Streamlit app](screenshots/app.png)
 
 ## Results
